@@ -1,0 +1,22 @@
+Hi all,
+
+There are three simple tutorials on JSON using three different jars i,e Gson ,jettison and jeckson jars.
+All these jars are also present under directory structure.
+
+There are three different packages :
+1. waheed.demo.pojo.json.tutorial.using.jetison
+   - Conversion of xml to pojo and vice versa using jetison jars. 
+   - JAXB marshalling and unmarshalling are done to convert json to xml and vice versa.
+   - Just run MarshelDemo and UnMarshalDemo to check the Output.
+
+2. waheed.demo.pojo.json.tutorial.using.jackson
+   - SImple Converison of POJO to JOSN using jetison jars.
+   -It will create the "filename.json" as a output.
+   
+3. waheed.demo.pojo.json.tutorial.using.gson
+   - Simple conversion of Pojo to Json using GSon jars
+   - create demo.json file under the working directory.
+
+Note: To run it properly, Don't forget to add respective proper jars into the classpath.
+
+Thanks
