@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DummyConfig>
+    <clusterConfig>
+        <clusterPort>9997</clusterPort>
+        <encryption>basic</encryption>
+    </clusterConfig>
+    <id>dummyTenant2</id>
+    <name>dummyTenant2</name>
+    <rmiPort>6002</rmiPort>
+    <started>true</started>
+    <timeout>60000</timeout>
+    <version>version</version>
+    <webPort>7998</webPort>
+    <placeholder>placeholder</placeholder>
+</DummyConfig>

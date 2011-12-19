@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dummyConfig>
+    <clusterConfig>
+        <clusterPort>9997</clusterPort>
+     </clusterConfig>
+    <id>CA360Tenant1</id>
+    <name>CA360Tenant1</name>
+    <started>true</started>
+    <webPort>7998</webPort>
+ </dummyConfig>
